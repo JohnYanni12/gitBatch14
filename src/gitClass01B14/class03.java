@@ -7,7 +7,10 @@ public class class03 {
 		System.out.println("Hey, this is git class!!!");
 		System.out.println("This a change in my code");
 		System.out.println("Tmy code");
+		
+		System.out.println("code");
 	}
+	
 
 
 }
