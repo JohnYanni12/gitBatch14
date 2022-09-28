@@ -9,6 +9,8 @@ public class class03 {
 		System.out.println("Tmy code");
 		
 		System.out.println("code");
+		
+		System.out.println("code 2");
 	}
 	
 
